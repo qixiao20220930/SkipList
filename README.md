@@ -76,3 +76,5 @@ sh stress_test_start.sh
 相关参考：
 
 [【数据结构】跳表SkipList代码解析(C++) - 半生瓜のblog (banshengua.top)](https://banshengua.top/[数据结构]跳表skiplist代码解析c/)
+
+[youngyangyang04/Skiplist-CPP: A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀 (github.com)](https://github.com/youngyangyang04/Skiplist-CPP)
